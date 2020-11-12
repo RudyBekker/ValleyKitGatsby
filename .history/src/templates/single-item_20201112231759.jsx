@@ -38,7 +38,8 @@ export default props => {
             </div>
             <div className="w-full lg:w-2/5 lg:pl-4">
               <Feature label="Location" value={country} />
-              <Feature label="Floor Plan" value={url} />
+              <--Feature label="What to see?" value={tags} />
+              <Feature label="More info" value={url} />
               <p className="mt-4 whitespace-pre-line text-sm lg:text-base leading-normal text-blue-900">
                 {description}
               </p>
