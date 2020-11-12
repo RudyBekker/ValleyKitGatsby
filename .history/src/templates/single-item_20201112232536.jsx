@@ -29,7 +29,7 @@ export default props => {
           <h1 className="text-2xl lg:text-3xl text-yellow-700 font-bold leading-tight">
             {name}
           </h1>
-          <p className="text-base lg:text-lg text-yellow-700 font-medium mb-4">
+          <p className="text-base lg:text-lg text-yellow-800 font-medium mb-4">
             {summary}
           </p>
           <div className="flex flex-wrap">
