@@ -20,7 +20,7 @@ export const Card = props => {
   return (
     <div className="bg-white h-full shadow-sm rounded-md overflow-hidden hover:bg-blue-100">
       <Link to={`/${slug}`} state={{ navigation }} asModal>
-        <div className="bg-yellow-700">
+        <div className="bg--300">
           <Img fluid={cover.childImageSharp.fluid} alt={name} />
         </div>
         <div className="p-5 pb-1">
