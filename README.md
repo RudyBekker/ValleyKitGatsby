@@ -1,1 +1,1 @@
-Valley Kit Gatsby Example up
+Valley Kit Gatsby Example app
